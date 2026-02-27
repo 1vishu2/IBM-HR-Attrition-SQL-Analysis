@@ -4,7 +4,7 @@
 Performed HR analytics using SQL to identify key drivers of employee attrition.
 
 ## Key Insights
-= Majority of the workforce falls in the 26–35 age group, indicating a predominantly mid-level professional employee base.
+- Majority of the workforce falls in the 26–35 age group, indicating a predominantly mid-level professional employee base.
 - Employees with Education Level > 5 earn significantly higher average salaries, suggesting strong correlation between education and compensation.
 - The R&D department contributes the highest number of exits, highlighting potential retention challenges in technical roles.
 - Overall attrition rate: 16.2% indicating moderate workforce turnover
